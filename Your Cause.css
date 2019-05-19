@@ -1,0 +1,79 @@
+/*
+*Katherine Walton
+*5/19/19
+*Your Cause 
+/* 
+
+/* The universal selector */
+
+* { 
+    margin:0%;
+    padding:0%;
+} 
+
+/* changed link colors to light blue */
+
+header{
+    text-align: center;
+    border-bottom: 2px solid red;
+    color:coral
+}
+
+#fire{
+    margin: 10px;
+    float:left;
+}
+
+h3{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color:brown
+}
+
+h3{
+    margin-bottom: 10px
+}
+
+#mansion{
+    margin: 15px
+    }
+#mansion{width:180px; height:180px}
+
+#house{
+    margin:15px
+}
+#house{width:180px; height:180px}
+
+#park{
+    margin:15px
+}
+#park{width:180px; height:180px}
+
+#flames{
+    margin:15px
+}
+#flames{width:180px; height:180px}
+
+#neighborhood{
+    margin:15px
+}
+#neighborhood{width:180px; height:180px}
+
+#charity{
+    margin:20px;
+    float:right;
+}
+
+#charity{width:230px; height:230px}
+
+p{
+    margin:20px;
+}
+
+footer{
+    border-top: 2px solid red
+}
+
+a:link{
+    color:lightskyblue
+}
